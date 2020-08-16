@@ -3,7 +3,7 @@ body,html{
 }
 
 .bg{
-    background-color:#26030A;
+    background-color: #26030A;
 }
 
 /* Style all font awesome icons */
@@ -31,5 +31,11 @@ body,html{
   /* Twitter */
   .fa-twitter {
     background: #55ACEE;
+    color: white;
+  }
+
+  /* Linkedin */
+  .fa-linkedin {
+    background: skyblue;
     color: white;
   }
